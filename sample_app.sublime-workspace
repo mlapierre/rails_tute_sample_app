@@ -1,0 +1,598 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gemin",
+				"gem_info"
+			],
+			[
+				"test_gem",
+				"test_gem_info"
+			],
+			[
+				"is",
+				"is_hosted"
+			],
+			[
+				"name",
+				"nametuple"
+			],
+			[
+				"platfor",
+				"platform"
+			],
+			[
+				"na",
+				"name_tuple"
+			],
+			[
+				"gem",
+				"gem_name"
+			],
+			[
+				"geminabox",
+				"geminabox_client"
+			],
+			[
+				"gem_",
+				"gem_filename"
+			],
+			[
+				"ge",
+				"gem_expression"
+			],
+			[
+				"wi",
+				"with"
+			],
+			[
+				"Ge",
+				"GeminaboxClient"
+			],
+			[
+				"log",
+				"log_name"
+			],
+			[
+				"Gem",
+				"GemPusher"
+			],
+			[
+				"test",
+				"test_gem"
+			],
+			[
+				"G",
+				"GemPusher"
+			],
+			[
+				"captu",
+				"capture_stdout"
+			],
+			[
+				"cap",
+				"capture_stdout"
+			],
+			[
+				"get_",
+				"get_hosted_gems"
+			],
+			[
+				"hosted",
+				"hosted_gems"
+			],
+			[
+				"host",
+				"hosted_max_ver"
+			],
+			[
+				"giab",
+				"giab_server"
+			],
+			[
+				"GEM",
+				"GEMSERVER"
+			],
+			[
+				"gia",
+				"giab_server"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"D",
+				"DIRECTIONS"
+			],
+			[
+				"current",
+				"current_direction"
+			],
+			[
+				"H",
+				"HTTPNotFound"
+			],
+			[
+				"mock",
+				"mock_response"
+			],
+			[
+				"HTTP",
+				"HTTPResponse"
+			],
+			[
+				"upl",
+				"upload_gems_to_geminabox_server"
+			],
+			[
+				"and",
+				"and_return"
+			],
+			[
+				"File",
+				"FileUtils"
+			],
+			[
+				"E",
+				"ENV"
+			],
+			[
+				"should_re",
+				"should_receive"
+			],
+			[
+				"popu",
+				"PopulateUtils"
+			],
+			[
+				"log_",
+				"log_level"
+			],
+			[
+				"ex",
+				"expect"
+			],
+			[
+				"all",
+				"all_ok"
+			],
+			[
+				"poli",
+				"policies"
+			],
+			[
+				"policy",
+				"policy_number"
+			],
+			[
+				"thread",
+				"thread_state"
+			],
+			[
+				"pol",
+				"policy_number"
+			],
+			[
+				"threa",
+				"thread_state"
+			],
+			[
+				"should",
+				"should_receive"
+			],
+			[
+				"C",
+				"Capybara"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"doc",
+				"doc_pms_cudos"
+			],
+			[
+				"top",
+				"toplevel_frameset"
+			],
+			[
+				"frame",
+				"frameset	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1176,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 235.0,
+		"selected_items":
+		[
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 344.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/.gitconfig",
+		"/H/.ssh/id_rsa.pub",
+		"/C/Users/s75254/.ssh/config",
+		"/H/.ssh/config",
+		"/D/dev/geminabox-win-fix/.git/config",
+		"/H/utils/bin/clearproxy.bat",
+		"/H/utils/bin/setproxy.bat",
+		"/C/Users/s75254/.ssh/config.txt",
+		"/C/Users/s75254/.gitconfig",
+		"/C/Users/s75254/.heroku/client/vendor/gems/excon-0.31.0/lib/excon/socket.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/excon-0.32.1/lib/excon/socket.rb",
+		"/C/Users/s75254/AppData/Local/GitHub/TheLog.txt",
+		"/D/dev/geminabox-combined/Rakefile",
+		"/D/dev/geminabox-combined/Gemfile.lock",
+		"/D/dev/geminabox-combined/Gemfile",
+		"/D/dev/first_app/Gemfile.lock",
+		"/D/dev/first_app/.gitignore",
+		"/D/dev/geminabox-combined-9393/views/gem.erb",
+		"/D/dev/geminabox-combined-9393/views/help.erb",
+		"/D/dev/geminabox-combined-9393/spec/smoke_test_spec.rb",
+		"/D/dev/geminabox-win-fix/lib/geminabox/server.rb",
+		"/D/dev/geminabox-combined-9393/Gemfile.lock",
+		"/D/dev/geminabox-combined-9393/Gemfile",
+		"/D/dev/geminabox-combined/bin/config.ru",
+		"/D/dev/gem_pusher_giab_client_lib/gem_pusher.gemspec",
+		"/D/dev/geminabox_client/lib/geminabox_client/geminabox_client.rb",
+		"/D/dev/geminabox-upstream-master/lib/geminabox_client.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/geminabox-b3d40349d10d/lib/geminabox_client.rb",
+		"/C/Users/s75254/AppData/Roaming/Sublime Text 3/Packages/User/RubyTest.sublime-settings",
+		"/C/Users/s75254/AppData/Roaming/Sublime Text 3/Packages/RubyTest/RubyTest.sublime-settings",
+		"/C/Users/s75254/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/s75254/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/s75254/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/dev/geminabox_client/geminabox_client.sublime-project",
+		"/D/dev/gem_pusher/.hgsub",
+		"/D/dev/occ_client/lib/occ_client/retrieve_csxml.rb",
+		"/D/dev/occ_client/lib/occ_client/helpers.rb",
+		"/D/dev/occ_client/lib/occ_client/manifestor.rb",
+		"/D/dev/occ_client/lib/occ_client/output_handler.rb",
+		"/D/dev/occ_client/lib/occ_client/patches.rb",
+		"/D/dev/occ_client/lib/occ_client/path_generator.rb",
+		"/D/dev/occ_client/spec/fixtures/config.yml",
+		"/D/dev/occ_client/spec/occ_client_spec.rb",
+		"/D/dev/occ_client/spec/spec_helper.rb",
+		"/D/dev/occ_client/lib/occ_client.rb",
+		"/D/dev/geminabox_client/spec/spec_helper.rb",
+		"/D/dev/gem_pusher/lib/gem_pusher.rb",
+		"/D/dev/geminabox_client/Gemfile",
+		"/D/dev/gem_pusher/lib/gem_pusher/geminabox_client.rb",
+		"/D/dev/geminabox_client/Rakefile",
+		"/D/dev/geminabox_client/spec/geminabox_client/geminabox_client_spec.rb",
+		"/D/dev/gem_pusher/spec/gem_pusher/geminabox_client_spec.rb",
+		"/D/dev/gem_pusher/spec/gem_pusher/gem_pusher_spec.rb",
+		"/D/dev/gem_pusher/lib/gem_pusher/version.rb",
+		"/D/dev/gem_pusher/Rakefile",
+		"/D/dev/gem_pusher/spec/spec_helper.rb",
+		"/D/dev/gem_pusher/gem_pusher.gemspec",
+		"/D/dev/gem_pusher/Gemfile",
+		"/D/dev/claims_temp_code_base/Claims Automation/lib/config.rb",
+		"/D/dev/gem_pusher/lib/gem_pusher/configuration.rb",
+		"/D/dev/occ_client/lib/occ_client/configuration.rb",
+		"/D/dev/gem_pusher/lib/gem_pusher/errors.rb",
+		"/D/dev/occ_client/lib/occ_client/file_operations.rb",
+		"/D/dev/occ_client/lib/occ_client/classification.rb",
+		"/D/dev/occ_client/lib/occ_client/classes_to_refactor.rb",
+		"/D/dev/occ_client/lib/occ_client/adlib_signal_file.rb",
+		"/D/dev/occ_client/spec/fixtures/results-manifest.yml",
+		"/D/dev/geminabox-populate/Rakefile",
+		"/D/dev/occ_client/lib/occ_client/sample_injector.rb",
+		"/D/dev/geminabox-populate/lib/populate_utils.rb",
+		"/D/dev/occ_client/README.rdoc",
+		"/D/dev/occ_client/lib/occ_client/errors.rb",
+		"/D/dev/geminabox_client/Gemfile.lock",
+		"/D/dev/occ_client/Rakefile",
+		"/D/dev/occ_client/Gemfile",
+		"/D/dev/geminabox-populate/Gemfile",
+		"/D/dev/geminabox-populate/spec/spec_helper.rb",
+		"/D/dev/geminabox_client/geminabox_client.rb",
+		"/D/dev/labrat_client/spec/labrat_client_spec.rb",
+		"/D/dev/labrat_client/spec/spec_helper.rb",
+		"/D/dev/labrat_client/lib/labrat_client.rb",
+		"/D/dev/labrat_client/lib/labrat_client/query.rb",
+		"/D/dev/geminabox-win-fix/lib/geminabox_client.rb",
+		"/D/dev/labrat_client/spec/labrat_client/test_run_publisher_spec.rb",
+		"/D/dev/labrat_client/Rakefile",
+		"/D/dev/labrat_client/Gemfile",
+		"/D/src/geminabox-master-0.12.2/lib/rubygems/commands/inabox_command.rb",
+		"/D/src/occ_client/lib/occ_client/helpers.rb",
+		"/D/dev/geminabox_client/version.rb",
+		"/D/dev/gem_pusher/Gemfile.lock",
+		"/D/dev/occ_client/occ_client.gemspec",
+		"/D/dev/labrat_client/vendor/bundle/ruby/1.9.1/gems/gem_pusher-0.0.2/gem_pusher.gemspec",
+		"/D/dev/geminabox-populate/spec/units/geminabox-populate/populate_utils_spec.rb",
+		"/D/dev/gem_pusher/.simplecov",
+		"/D/src/bi/trunk/Automation/ruby/testing/lib/lumina_support/sessions.rb",
+		"/D/src/bi/trunk/Automation/ruby/testing/lib/lumina_support/csv.rb",
+		"/D/src/bi/trunk/Automation/ruby/testing/lib/lumina_support/sql.rb",
+		"/D/src/occ_client/lib/occ_client/sample_injector.rb",
+		"/D/src/occ_client/lib/occ_client/retrieve_csxml.rb",
+		"/D/src/occ_client/lib/occ_client/path_generator.rb",
+		"/D/dev/labrat_client/lib/labrat_client/sampler.rb",
+		"/D/dev/labrat_client/labrat_client.gemspec",
+		"/D/dev/geminabox-populate/spec/smoke_test_spec.rb",
+		"/D/dev/gem_pusher/spec/gem_pusher/version.rb",
+		"/D/dev/labrat_client/spec/labrat_client/sampler_spec.rb",
+		"/D/dev/geminabox_publisher/lib/geminabox_publisher.rb",
+		"/D/dev/geminabox_publisher/spec/spec_helper.rb",
+		"/D/dev/geminabox_publisher/lib/geminabox_publisher/geminabox_client.rb",
+		"/D/dev/geminabox_publisher/Rakefile",
+		"/D/dev/geminabox_publisher/spec/geminabox_publisher/geminabox_client_spec.rb",
+		"/D/src/labrat_client/lib/labrat_client/sampler.rb",
+		"/D/dev/geminabox_publisher/lib/geminabox_publisher/version.rb",
+		"/D/src/geminabox-master-0.12.2/lib/geminabox/gem_version.rb",
+		"/D/src/geminabox-master-0.12.2/lib/geminabox/server.rb",
+		"/D/dev/geminabox_publisher/geminabox_publisher.rb",
+		"/D/src/bi/trunk/Automation/ruby/testing/lib/lumina_support/files.rb",
+		"/D/src/bi/trunk/Automation/ruby/testing/lib/lumina_support/jobs.rb",
+		"/D/src/geminabox-master-0.12.2/lib/geminabox_client.rb",
+		"/D/dev/gem_publisher/gem_publisher.rb",
+		"/D/dev/gem_publisher/requirements.txt",
+		"/D/dev/gem_publisher/Rakefile",
+		"/D/dev/labrat_client/README.rdoc",
+		"/D/dev/labrat_client/lib/labrat_client/version.rb",
+		"/D/dev/gem_publisher/lib/labrat_client/version.rb",
+		"/D/dev/gem_publisher/labrat_client.gemspec",
+		"/D/src/occ_client/lib/occ_client/manifestor.rb",
+		"/D/src/labrat_client/lib/labrat_client/helpers.rb",
+		"/D/src/labrat_client/lib/labrat_client/query.rb"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@log",
+			"$LOG",
+			"should_upload",
+			"gem_name_tuple",
+			"GeminaboxClient",
+			"get_hosted_gem_links",
+			"log_object",
+			"log",
+			"log_object",
+			"gem_vers.max",
+			"GEMUSER",
+			"GEMSERVER",
+			"GEMPASS",
+			"VALID_DIRECTIONS",
+			"PRIORITIES",
+			"HTTPNotFound",
+			"    @",
+			"log",
+			"LOG",
+			"log",
+			"options",
+			"expect(out).to eq(\"test-error\\n\")",
+			"log_and_print",
+			"$LOG",
+			"  $",
+			"SAMPLE_SIZE",
+			"empty",
+			"ARGV",
+			"args",
+			"The",
+			"link",
+			" +",
+			"each",
+			"xml_url",
+			"build_root"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@logger"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_digits":
+								[
+								],
+								"cancel_action": false,
+								"expecting_register": false,
+								"expecting_user_input": false,
+								"mode": 2,
+								"motion": null,
+								"motion_digits":
+								[
+								],
+								"next_mode": 2,
+								"next_mode_command": null,
+								"register": null,
+								"stashed_action": null,
+								"user_action_input": null,
+								"user_input": null,
+								"user_motion_input": null,
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 236.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "sample_app.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
